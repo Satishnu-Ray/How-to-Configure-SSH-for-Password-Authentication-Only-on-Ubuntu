@@ -1,0 +1,1 @@
+# How-to-Configure-SSH-for-Password-Authentication-Only-on-Ubuntu
